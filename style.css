@@ -1,3 +1,8 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+
 p.text{
   margin-bottom: 5%; 
 }
@@ -10,4 +15,9 @@ p.text{
 p{
   font-size: 18px;
 	margin: 15px 0;
+}
+
+
+.text-icon-big{
+  font-family: 'Lato', sans-serif;
 }
